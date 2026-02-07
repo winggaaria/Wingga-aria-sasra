@@ -1,0 +1,26 @@
+GUPI Privacy Policy
+
+Last updated: 2026-02-07
+
+Summary
+GUPI blocks gambling-related content, ads, and risky redirects locally in your browser. The extension does not collect or transmit personal data.
+
+Data Collection
+- The extension does not collect or transmit personal information to any external server.
+- Data stored locally in your browser (Chrome storage only):
+  - User preferences (on/off, safeguards, focus mode).
+  - Allowlist (user-approved domains).
+  - Counters for blocked items.
+
+Data Usage
+- Local data is used only to provide the extension’s features.
+
+Data Sharing
+- No data is sold or shared with third parties.
+
+Security
+- All detection and blocking run locally in the browser.
+- No external processing of user data.
+
+Contact
+For questions, please use the developer contact information listed on the Chrome Web Store page.
